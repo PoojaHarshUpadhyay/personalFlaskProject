@@ -1,2 +1,3 @@
 # personalFlaskProject
-personal website
+personal learning website using Flask 
+https://letslearnnewstuffs.herokuapp.com/
